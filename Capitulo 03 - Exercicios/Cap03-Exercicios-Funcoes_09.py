@@ -1,0 +1,3 @@
+# Exercício 9 Abaixo você encontra a importação do Pandas, um dos principais pacotes Python para análise de dados. Analise atentamente todos os métodos disponíveis. Um deles você vai usar no próximo exercício.
+import pandas as pd
+print("pd.Series\nUma série é como se fosse uma tabela contendo indices e valores.\n\npd.isnull\nPara saber se há algum valor nulo em uma serie.\n\npd.notnull\nPara saber se há algum valor não-nulo em uma serie.\n\npd.DataFrame\nUm dataframe é algo semelhante a uma planilha excel.\n\npd.read_csv\nPara ler um arquivo csv.\n\npd.date_range\nPara criar uma quantidade de datas especifica.\n\npd.merge\nPara juntar DataFrames que contem colunas que se relacionam.")
