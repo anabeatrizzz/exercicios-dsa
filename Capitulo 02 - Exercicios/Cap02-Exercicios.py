@@ -1,4 +1,5 @@
-# Os enunciados: https://github.com/dsacademybr/PythonFundamentos/blob/master/Cap02/Notebooks/DSA-Python-Cap02-Exercicios.ipynb
+# Os enunciados:
+# https://github.com/dsacademybr/PythonFundamentos/blob/master/Cap02/Notebooks/DSA-Python-Cap02-Exercicios.ipynb
 
 print("Exercicio 1")
 numeros = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
