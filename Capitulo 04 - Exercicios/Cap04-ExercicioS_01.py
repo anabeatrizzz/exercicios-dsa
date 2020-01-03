@@ -1,5 +1,5 @@
 # Exercício 1 - Crie uma lista de 3 elementos e calcule a terceira potência de cada elemento.
-print("Exercicio 1")
+
 def Potencia(numero):
   return numero ** 3
 
