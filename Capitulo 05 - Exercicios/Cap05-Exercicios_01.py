@@ -1,5 +1,6 @@
-# Exercício 1 - Crie um objeto a partir da classe abaixo, chamado roc1, passando 2 parâmetros e depois faça uma chamada aos atributos e métodos
-print("Exercicio 1")
+"""Exercício 1 - Crie um objeto a partir da classe abaixo, chamado roc1, passando 2 parâmetros
+e depois faça uma chamada aos atributos e métodos."""
+
 class Rocket():
   def __init__(self, x=0, y=0):
     self.x = x
